@@ -1,0 +1,22 @@
+Overview: Graph Practice Problems
+
+Purpose
+- This folder contains practice problems and reference implementations for core data structures.
+- Designed for incremental learning, algorithm practice, and interview preparation.
+
+Structure
+- /problems      -> individual problem folders
+- Overview.txt   -> this file: high-level purpose and conventions
+
+Conventions
+- Problem folder name: With my solution and ideal solution
+
+Languages & Tools
+- Primary languages: C++ and Python
+
+Contributing
+- Update Overview.txt with any structural changes.
+
+Goals
+- Keep problems focused, well-documented, and easy to run.
+- Build a growing collection for practice and review.
