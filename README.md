@@ -21,9 +21,9 @@ Where I practice and source my problems:
 
 | Platform | Profile/Handle | Focus |
 | :--- | :--- | :--- |
-| **Codeforces** | [![Codeforces](https://img.shields.io/badge/Codeforces-Kushal-Rao-blue.svg)](https://codeforces.com/profile/Kushal-Rao) | Speed, Ad-hoc, Math |
-| **Kattis** | [![Kattis](https://img.shields.io/badge/Kattis-kushal-rao-orange.svg)](https://open.kattis.com/users/kushal-rao) | ICPC Past Archives |
-| **CSES** | [CSES Problem Set](https://cses.fi/user/416641) | Standard Implementations |
+| **Codeforces** | [![Codeforces](https://img.shields.io/badge/Codeforces-Kushal--Rao-blue.svg)](https://codeforces.com/profile/Kushal-Rao) | Speed, Ad-hoc, Math |
+| **Kattis** | [![Kattis](https://img.shields.io/badge/Kattis-Kushal--Rao-orange.svg)](https://open.kattis.com/users/kushal-rao) | ICPC Past Archives |
+| **CSES** | [![CSES Problem Set](https://img.shields.io/badge/Kattis-Kushal--Rao-green.svg)](https://cses.fi/user/416641) | Standard Implementations |
 <!-- | **AtCoder** | [![AtCoder](https://img.shields.io/badge/AtCoder-[Your_Handle]-black.svg)](https://atcoder.jp/users/Your_Handle) | DP, Clean Math | -->
 
 ## My Standard Template
